@@ -1,0 +1,203 @@
+@charset "utf-8";
+body{
+	background-color: floralwhite;
+}
+
+#div001{
+	background-image: url(img/drops-of-water-578897_1920.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-bottom: 200px;
+	padding-left: 450px;
+	padding-right: 460px;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	
+}
+
+#ul001{
+	background-color: white;
+	position: fixed;
+	z-index: 1000;
+}
+#div003{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 350px;
+	padding-bottom: 200px;
+}
+#div004{
+	padding-left: 280px;
+	padding-right: 280px;
+}
+#td007{
+	padding: 0px !important;
+}
+#pnggps{
+	padding-left: 130px;
+	padding-right: 130px;
+}
+#td008{
+	padding: 0px !important;
+}
+#td009{
+	padding: 0px !important;
+}
+#td010{
+	padding: 0px !important;
+}
+#td011{
+	padding-top: 30px;
+}
+#td012{
+	padding: 0px !important;
+}
+#row001{
+	padding-bottom: 5px;
+}
+#dicas-hidratacao{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div009{
+	padding-bottom: 30px;
+}
+#div010{
+	padding-left: 650px;
+	padding-right: 650px;
+}
+#div011{
+	padding-bottom: 100px;
+	padding-left: 450px;
+	padding-right: 460px;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+#div013{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div014{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div015{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div016{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div017{
+	padding-bottom: 100px;
+	padding-left: 450px;
+	padding-right: 460px;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+#div019{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div020{
+	background-image: url(img/jogging-2343558_1280.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	text-align: center;
+	padding: 0px !important;
+}
+#div021{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div022{
+	background-image: url(img/running-573762_1280.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	text-align: center;
+	padding: 0px !important;
+}
+#div023{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div024{
+	background-image: url(img/run-1749410_1280.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	text-align: center;
+	padding: 0px !important;
+}
+#div025{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div026{
+	background-image: url(img/training-828741_1280.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	text-align: center;
+	padding: 0px !important;
+}
+#div027{
+	padding-bottom: 100px;
+	padding-left: 450px;
+	padding-right: 460px;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+#div029, #div031{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#div030, #div035{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#div032{
+	padding-bottom: 100px;
+	padding-left: 450px;
+	padding-right: 460px;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+#div034{
+	padding-left: 280px;
+
+}
+#div200{
+	background-image: url(img/drops-of-water-578897_1920.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+#div201{
+    background-color:rgba(100, 100, 100, 0.6);
+}
+#h1001{
+	color: lightgoldenrodyellow;
+}
